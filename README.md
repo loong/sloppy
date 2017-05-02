@@ -1,2 +1,1 @@
-# sloppy
-Autocorrect for APIs
+# Sloppy - Autocorrect for APIs
